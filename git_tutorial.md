@@ -65,7 +65,7 @@ git stash
 git stash pop
 
 # git add to github
-git add remove origin **.git
+git add remote origin **.git
 
 
 
